@@ -1,4 +1,5 @@
 # hello-world
  gogwon's first test repository
-
-두번째-  수정 해보기
+ 
+ 어떻게 쓰는건지 따라 해보기
+ 
